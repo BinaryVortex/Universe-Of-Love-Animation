@@ -2,8 +2,6 @@
 
 A lightweight, responsive web animation built with HTML, CSS and JavaScript that visualizes a calming "Universe of Love" scene — perfect as a background, demo, or small interactive art piece.
 
-![Screenshot](./screenshot.png)
-
 ## Features
 
 - Pure HTML, CSS and JavaScript — no external dependencies
