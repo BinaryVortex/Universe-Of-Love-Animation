@@ -15,6 +15,10 @@ A lightweight, responsive web animation built with HTML, CSS and JavaScript that
 - For development with hot reload: use the VS Code Live Server extension or run a static server (e.g., `npx http-server`).
 - To host on GitHub Pages: enable Pages in repository settings and point it to the repository root or the `gh-pages` branch.
 
+## Screenshot
+
+![Universe Of Love animation](./Screenshot%202024-07-26%20005858.png)
+
 ## Installation
 
 Clone the repository:
