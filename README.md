@@ -60,7 +60,3 @@ Contributions, suggestions and improvements are welcome!
 If you want others to reuse your animation, add a license (for example, an MIT LICENSE file). If no license is present, the repository defaults to "All rights reserved."
 
 ---
-
-If you'd like, I can:
-- Add the README directly to the repo for you (I can create the file and include/point to the screenshot) — tell me if you want me to commit it and confirm the image filename/path you prefer.
-- Or update the README text to reference a different screenshot path or to include a GIF instead.
