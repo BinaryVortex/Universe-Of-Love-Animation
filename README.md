@@ -59,4 +59,3 @@ Contributions, suggestions and improvements are welcome!
 
 If you want others to reuse your animation, add a license (for example, an MIT LICENSE file). If no license is present, the repository defaults to "All rights reserved."
 
----
